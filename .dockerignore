@@ -1,0 +1,13 @@
+.env
+.git
+.gitignore
+.idea
+
+# Python
+**/__pycache__/
+**/.py[cod]
+**/*$py.class
+**/*.cpython*
+.venv/
+
+# Project
